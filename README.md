@@ -31,7 +31,7 @@ Bonus player content
 - Display of all categories to choose from
 
 ## Wireframe
-![wireframe]([img]https://i.imgur.com/cQqOnAg.jpg[/img])
+![wireframe](//i.imgur.com/cQqOnAg.jpg[/img])
 
 
 ## Pseudocode
